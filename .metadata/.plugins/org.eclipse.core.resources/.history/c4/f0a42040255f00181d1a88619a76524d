@@ -1,0 +1,9 @@
+package org.roy.java.rest;
+
+import javax.ws.rs.core.Application;
+
+
+public class MyApp extends Application {
+	
+
+}
